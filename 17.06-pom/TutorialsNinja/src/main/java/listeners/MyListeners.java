@@ -60,6 +60,7 @@ public class MyListeners implements ITestListener {
         extentTest.addScreenCaptureFromPath(destinationScreenShotPath);
         extentTest.log(Status.INFO, result.getThrowable());
         extentTest.log(Status.FAIL, result.getName()+" got failed");
+        extentTest.log(Status.INFO, "test is okay");
     }
     @Override
     public void onTestSkipped(ITestResult result) {
