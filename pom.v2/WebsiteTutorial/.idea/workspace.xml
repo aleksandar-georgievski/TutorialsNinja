@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="495e5469-413f-4273-bc0f-6f5d51ce5196" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../page-object-model/POM/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../project-v.1/selenium-java/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.github/workflows/maven.build.master.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.github/workflows/maven.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.github/workflows/maven2.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resources/mac/chromedriver" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resources/windows/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/HelloSelenium2Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/HelloSelenium3Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/HelloSeleniumTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/SeleniumTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/advanced/tips/PageLoadTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/atda/AcceptanceTestDrivenAutomationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/atda/BasePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/atda/LoginPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/atda/ProductsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/best/practices/Duplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/best/practices/LoginPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/best/practices/PersonalInfoPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/best/practices/ProductsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/best/practices/ShoppingCartPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/best/practices/Synchronization.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/csvDataDriven/CSVDataReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/csvDataDriven/CSVExercise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/csvDataDriven/Prices.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/csvDataDriven/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/csvDataDriven/Users.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/enumDataDriven/EnumDataDrivenTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/enumDataDriven/EnumExercise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/enumDataDriven/SortValue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/enumDataDriven/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/locating/elements/LocatingElementsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/testNGDataDriven/TestNGDataDrivenExercise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/testNGDataDriven/UserLoginTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/testingClassData/DataProviderExercise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/testingClassData/ProductDataProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/testingClassData/UserDataProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/testingClassData/UserLoginTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Tag Library Descriptor" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2WRMT4xVOlCMzpWWd2fvi1ekvBo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Coding/Selenium-Java-Projects/pom.v2/WebsiteTutorial/src/main/java/testdata&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Coding\Selenium-Java-Projects\pom.v2\WebsiteTutorial\src\main\java\testdata" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Coding\Selenium-Java-Projects\pom.v2\WebsiteTutorial\src\test\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.Register.verifyRegisteringAnAccountWithMandatoryFields">
+    <configuration name="D:/Coding/Selenium-Java-Projects/pom.v2/WebsiteTutorial/src/test/resources/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WebsiteTutorial" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Login" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WebsiteTutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestCases" />
+      <option name="MAIN_CLASS_NAME" value="TestCases.Login" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Login.verifyLoginWithValidCredentials" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WebsiteTutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestCases" />
+      <option name="MAIN_CLASS_NAME" value="TestCases.Login" />
+      <option name="METHOD_NAME" value="verifyLoginWithValidCredentials" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Register.verifyRegisteringAnAccountWithMandatoryFields" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WebsiteTutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestCases" />
+      <option name="MAIN_CLASS_NAME" value="TestCases.Register" />
+      <option name="METHOD_NAME" value="verifyRegisteringAnAccountWithMandatoryFields" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Search" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WebsiteTutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestCases" />
+      <option name="MAIN_CLASS_NAME" value="TestCases.Search" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Register.verifyRegisteringAnAccountWithMandatoryFields" />
+        <item itemvalue="TestNG.Login.verifyLoginWithValidCredentials" />
+        <item itemvalue="TestNG.D:/Coding/Selenium-Java-Projects/pom.v2/WebsiteTutorial/src/test/resources/testng.xml" />
+        <item itemvalue="TestNG.Login" />
+        <item itemvalue="TestNG.Search" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="495e5469-413f-4273-bc0f-6f5d51ce5196" name="Changes" comment="" />
+      <created>1696690946297</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696690946297</updated>
+      <workItem from="1696690947546" duration="6037000" />
+      <workItem from="1697026799508" duration="7844000" />
+      <workItem from="1697111455860" duration="1253000" />
+      <workItem from="1697112721446" duration="195000" />
+      <workItem from="1697112925585" duration="15908000" />
+      <workItem from="1697380318141" duration="4430000" />
+      <workItem from="1697479635388" duration="1232000" />
+      <workItem from="1697657227981" duration="202000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

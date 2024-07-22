@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="98a06b5d-a051-46e3-b138-a5fb403905c4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../page-object-model/POM/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pom.v2/WebsiteTutorial/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pom.v2/WebsiteTutorial/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pom.v2/WebsiteTutorial/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pom.v2/WebsiteTutorial/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pom.v2/WebsiteTutorial/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pom.v2/WebsiteTutorial/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pom.v2/WebsiteTutorial/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../project-v.1/selenium-java/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.github/workflows/maven.build.master.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.github/workflows/maven.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.github/workflows/maven2.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resources/mac/chromedriver" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resources/windows/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/HelloSelenium2Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/HelloSelenium3Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/HelloSeleniumTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/SeleniumTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/advanced/tips/PageLoadTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/atda/AcceptanceTestDrivenAutomationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/atda/BasePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/atda/LoginPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/atda/ProductsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/best/practices/Duplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/best/practices/LoginPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/best/practices/PersonalInfoPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/best/practices/ProductsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/best/practices/ShoppingCartPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/best/practices/Synchronization.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/csvDataDriven/CSVDataReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/csvDataDriven/CSVExercise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/csvDataDriven/Prices.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/csvDataDriven/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/csvDataDriven/Users.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/enumDataDriven/EnumDataDrivenTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/enumDataDriven/EnumExercise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/enumDataDriven/SortValue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/enumDataDriven/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/locating/elements/LocatingElementsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/testNGDataDriven/TestNGDataDrivenExercise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/testNGDataDriven/UserLoginTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/testingClassData/DataProviderExercise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/testingClassData/ProductDataProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/testingClassData/UserDataProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/testingClassData/UserLoginTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2X2I7yvEy56gqSvmyXPMI8V3dLK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98a06b5d-a051-46e3-b138-a5fb403905c4" name="Changes" comment="" />
+      <created>1697820585976</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697820585976</updated>
+      <workItem from="1697820587114" duration="5695000" />
+      <workItem from="1698092902662" duration="308000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

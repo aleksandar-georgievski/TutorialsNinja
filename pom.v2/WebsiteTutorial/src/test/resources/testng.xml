@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="D:/Coding/Selenium-Java-Projects/pom.v2/WebsiteTutorial">
+        <classes>
+            <class name="TestCases.Register"/>
+            <class name="TestCases.Login"/>
+            <class name="TestCases.Search"/>
+        </classes>
+    </test>
+</suite>

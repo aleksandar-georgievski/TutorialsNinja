@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="methods" name="All Test Suite">
+    <listeners>
+        <listener class-name="org.project.TestComponents.Listeners"/>
+    </listeners>
+    <test thread-count="1" name="D:/Coding/Selenium-Java-Projects/final_udemy_project/SeleniumFrameworkDesign">
+        <classes>
+            <class name="org.project.Tests.CompleteTest">
+                <methods>
+                    <include name="submitOrder"/>
+                </methods>
+            </class>
+            <class name="org.project.Tests.ErrorValidationsTest">
+                <methods>
+                    <include name="LoginErrorValidation"/>
+                    <include name="ProductErrorValidation"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
